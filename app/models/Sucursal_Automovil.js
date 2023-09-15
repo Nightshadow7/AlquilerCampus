@@ -17,7 +17,7 @@ const sucursal_automovilSchema = new mongoose.Schema(
     },
     cantidad_disponible:{
       type: Number,
-      require: true,
+      required: true,
       trim: true,
     }
   },

@@ -36,7 +36,6 @@ const registro_entregaSchema = new mongoose.Schema(
     versionKey: false
   }
 );
-
 const Registro_Entrega = mongoose.model( 'Registros_Entregas' , registro_entregaSchema , 'Registros_Entregas');
 
 export default Registro_Entrega;

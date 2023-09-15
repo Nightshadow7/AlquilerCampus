@@ -41,7 +41,6 @@ const registro_devolucionSchema = new mongoose.Schema(
     versionKey: false
   }
 );
-
 const Registro_Devolucion = mongoose.model( 'Registros_Devoluciones' , registro_devolucionSchema , 'Registros_Devoluciones');
 
 export default Registro_Devolucion;

@@ -39,7 +39,6 @@ const automovilSchema = new mongoose.Schema(
     versionKey: false
   }
 );
-
 const Automovil = mongoose.model( 'Automoviles' , automovilSchema , 'Automoviles');
 
 export default Automovil;

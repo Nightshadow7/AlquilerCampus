@@ -11,7 +11,7 @@ const reservaSchema = new mongoose.Schema(
     },
     automovil:{
       type: Schema.Types.ObjectId,
-      ref: 'Automoviles',
+      ref: 'Sucursales_de_automoviles',
       required: true,
       trim: true
     },
@@ -32,8 +32,7 @@ const reservaSchema = new mongoose.Schema(
     },
     estado:{
       type: Boolean,
-      default: true,
-      require: false,
+      require: true,
       trim: true,
     },
   },

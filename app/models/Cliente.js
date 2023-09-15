@@ -14,9 +14,10 @@ const clienteSchema = new mongoose.Schema(
       trim: true
     },
     DNI:{
-      type: String,
+      type: Number,
       required: true,
-      trim: true
+      trim: true,
+      unique: true
     },
     direccion:{
       type: String,

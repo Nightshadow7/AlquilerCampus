@@ -9,7 +9,7 @@ const alquilerSchema = new mongoose.Schema(
       required: true,
       trim: true,
     },
-    direccion:{
+    automovil:{
       type: Schema.Types.ObjectId,
       ref: 'Automoviles',
       required: true,
@@ -17,7 +17,6 @@ const alquilerSchema = new mongoose.Schema(
     },
     fecha_inicio:{
       type: Date,
-      default: new Date(),
       require: false,
       trim: true,
     },

@@ -11,7 +11,8 @@ const sucursalSchema = new mongoose.Schema(
     direccion:{
       type: String,
       required: true,
-      trim: true
+      trim: true,
+      unique: true,
     },
     telefono:{
       type: Number,
