@@ -1,0 +1,251 @@
+[{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa13"
+  },
+  "cliente": "65048faea086374eed711130",
+  "automovil": "65049218aea3e65e8621f99b",
+  "fecha_inicio": "2023-09-20T08:00:00Z",
+  "fecha_fin": "2023-09-25T18:00:00Z",
+  "costo_total": 350,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa14"
+  },
+  "cliente": "650492b4aea3e65e8621f9af",
+  "automovil": "65049218aea3e65e8621f99c",
+  "fecha_inicio": "2023-09-22T10:00:00Z",
+  "fecha_fin": "2023-09-26T15:00:00Z",
+  "costo_total": 225,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa15"
+  },
+  "cliente": "650492b4aea3e65e8621f9b0",
+  "automovil": "65049218aea3e65e8621f9ae",
+  "fecha_inicio": "2023-09-23T09:00:00Z",
+  "fecha_fin": "2023-09-27T14:00:00Z",
+  "costo_total": 280,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa16"
+  },
+  "cliente": "650492b4aea3e65e8621f9b1",
+  "automovil": "65049218aea3e65e8621f9ab",
+  "fecha_inicio": "2023-09-24T08:00:00Z",
+  "fecha_fin": "2023-09-28T17:00:00Z",
+  "costo_total": 320,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa17"
+  },
+  "cliente": "6504939eaea3e65e8621f9c3",
+  "automovil": "65049218aea3e65e8621f9ad",
+  "fecha_inicio": "2023-09-25T11:00:00Z",
+  "fecha_fin": "2023-09-29T16:00:00Z",
+  "costo_total": 260,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa18"
+  },
+  "cliente": "6504939eaea3e65e8621f9c4",
+  "automovil": "65049218aea3e65e8621f9a6",
+  "fecha_inicio": "2023-09-26T12:00:00Z",
+  "fecha_fin": "2023-09-30T13:00:00Z",
+  "costo_total": 180,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa19"
+  },
+  "cliente": "6504939eaea3e65e8621f9c5",
+  "automovil": "65049218aea3e65e8621f9a3",
+  "fecha_inicio": "2023-09-27T13:00:00Z",
+  "fecha_fin": "2023-10-01T12:00:00Z",
+  "costo_total": 200,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa1a"
+  },
+  "cliente": "6504939eaea3e65e8621f9c6",
+  "automovil": "65049218aea3e65e8621f9a2",
+  "fecha_inicio": "2023-09-28T14:00:00Z",
+  "fecha_fin": "2023-10-02T11:00:00Z",
+  "costo_total": 210,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa1b"
+  },
+  "cliente": "6504939eaea3e65e8621f9c7",
+  "automovil": "65049218aea3e65e8621f9a7",
+  "fecha_inicio": "2023-09-29T15:00:00Z",
+  "fecha_fin": "2023-10-03T10:00:00Z",
+  "costo_total": 190,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa1c"
+  },
+  "cliente": "6504939eaea3e65e8621f9c8",
+  "automovil": "65049218aea3e65e8621f9a7",
+  "fecha_inicio": "2023-09-30T16:00:00Z",
+  "fecha_fin": "2023-10-04T09:00:00Z",
+  "costo_total": 270,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa1d"
+  },
+  "cliente": "6504939eaea3e65e8621f9c9",
+  "automovil": "65049218aea3e65e8621f9ab",
+  "fecha_inicio": "2023-10-01T17:00:00Z",
+  "fecha_fin": "2023-10-05T08:00:00Z",
+  "costo_total": 310,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa1e"
+  },
+  "cliente": "6504939eaea3e65e8621f9ca",
+  "automovil": "65049218aea3e65e8621f9a8",
+  "fecha_inicio": "2023-10-02T18:00:00Z",
+  "fecha_fin": "2023-10-06T07:00:00Z",
+  "costo_total": 250,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa1f"
+  },
+  "cliente": "6504939eaea3e65e8621f9cb",
+  "automovil": "65049218aea3e65e8621f9aa",
+  "fecha_inicio": "2023-10-03T07:00:00Z",
+  "fecha_fin": "2023-10-07T19:00:00Z",
+  "costo_total": 390,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa20"
+  },
+  "cliente": "6504939eaea3e65e8621f9cc",
+  "automovil": "65049218aea3e65e8621f9ac",
+  "fecha_inicio": "2023-10-04T09:00:00Z",
+  "fecha_fin": "2023-10-08T20:00:00Z",
+  "costo_total": 420,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa21"
+  },
+  "cliente": "6504939eaea3e65e8621f9cd",
+  "automovil": "65049218aea3e65e8621f9ad",
+  "fecha_inicio": "2023-10-05T10:00:00Z",
+  "fecha_fin": "2023-10-09T21:00:00Z",
+  "costo_total": 450,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa22"
+  },
+  "cliente": "6504939eaea3e65e8621f9ce",
+  "automovil": "65049218aea3e65e8621f9a8",
+  "fecha_inicio": "2023-10-06T11:00:00Z",
+  "fecha_fin": "2023-10-10T22:00:00Z",
+  "costo_total": 480,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa23"
+  },
+  "cliente": "6504939eaea3e65e8621f9cf",
+  "automovil": "65049218aea3e65e8621f9a7",
+  "fecha_inicio": "2023-10-07T12:00:00Z",
+  "fecha_fin": "2023-10-11T23:00:00Z",
+  "costo_total": 510,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa24"
+  },
+  "cliente": "6504939eaea3e65e8621f9d0",
+  "automovil": "65049218aea3e65e8621f9a6",
+  "fecha_inicio": "2023-10-08T13:00:00Z",
+  "fecha_fin": "2023-10-12T08:00:00Z",
+  "costo_total": 340,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa25"
+  },
+  "cliente": "6504939eaea3e65e8621f9d1",
+  "automovil": "65049218aea3e65e8621f9a5",
+  "fecha_inicio": "2023-10-09T14:00:00Z",
+  "fecha_fin": "2023-10-13T09:00:00Z",
+  "costo_total": 370,
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "650498c4aea3e65e8621fa26"
+  },
+  "cliente": "6504939eaea3e65e8621f9d2",
+  "automovil": "65049218aea3e65e8621f9a4",
+  "fecha_inicio": "2023-10-10T15:00:00Z",
+  "fecha_fin": "2023-10-14T10:00:00Z",
+  "costo_total": 300,
+  "estado": true
+},
+
+
+
+
+
+{"$oid": "650498c4aea3e65e8621fa13"},
+{"$oid": "650498c4aea3e65e8621fa14"},
+{"$oid": "650498c4aea3e65e8621fa15"},
+{"$oid": "650498c4aea3e65e8621fa16"},
+{"$oid": "650498c4aea3e65e8621fa17"},
+{"$oid": "650498c4aea3e65e8621fa18"},
+{"$oid": "650498c4aea3e65e8621fa19"},
+{"$oid": "650498c4aea3e65e8621fa1a"},
+{"$oid": "650498c4aea3e65e8621fa1b"},
+{"$oid": "650498c4aea3e65e8621fa1c"},
+{"$oid": "650498c4aea3e65e8621fa1d"},
+{"$oid": "650498c4aea3e65e8621fa1e"},
+{"$oid": "650498c4aea3e65e8621fa1f"},
+{"$oid": "650498c4aea3e65e8621fa20"},
+{"$oid": "650498c4aea3e65e8621fa21"},
+{"$oid": "650498c4aea3e65e8621fa22"},
+{"$oid": "650498c4aea3e65e8621fa23"},
+{"$oid": "650498c4aea3e65e8621fa24"},
+{"$oid": "650498c4aea3e65e8621fa25"},
+{"$oid": "650498c4aea3e65e8621fa26"}
+
+]
+
+
+
+  

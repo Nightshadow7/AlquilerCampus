@@ -1,0 +1,248 @@
+[{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa27"
+  },
+  "alquiler": "650498c4aea3e65e8621fa13",
+  "empleado": "65048fb4a086374eed711134",
+  "fecha_devolucion": "2023-09-30T08:00:00Z",
+  "combustible_devuelto": 40,
+  "kilometraje_devuelto": 1200,
+  "monto_adicional": 50
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa28"
+  },
+  "alquiler": "650498c4aea3e65e8621fa14",
+  "empleado": "6504940daea3e65e8621f9d7",
+  "fecha_devolucion": "2023-10-01T10:00:00Z",
+  "combustible_devuelto": 45,
+  "kilometraje_devuelto": 1250,
+  "monto_adicional": 60
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa29"
+  },
+  "alquiler": "650498c4aea3e65e8621fa15",
+  "empleado": "6504940daea3e65e8621f9d8",
+  "fecha_devolucion": "2023-10-02T09:00:00Z",
+  "combustible_devuelto": 38,
+  "kilometraje_devuelto": 1100,
+  "monto_adicional": 55
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa2a"
+  },
+  "alquiler": "650498c4aea3e65e8621fa16",
+  "empleado": "6504940daea3e65e8621f9d9",
+  "fecha_devolucion": "2023-10-03T08:00:00Z",
+  "combustible_devuelto": 42,
+  "kilometraje_devuelto": 1300,
+  "monto_adicional": 45
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa2b"
+  },
+  "alquiler": "650498c4aea3e65e8621fa17",
+  "empleado": "6504940daea3e65e8621f9da",
+  "fecha_devolucion": "2023-10-04T11:00:00Z",
+  "combustible_devuelto": 47,
+  "kilometraje_devuelto": 1350,
+  "monto_adicional": 70
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa2c"
+  },
+  "alquiler": "650498c4aea3e65e8621fa18",
+  "empleado": "6504940daea3e65e8621f9db",
+  "fecha_devolucion": "2023-10-05T12:00:00Z",
+  "combustible_devuelto": 39,
+  "kilometraje_devuelto": 1120,
+  "monto_adicional": 48
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa2d"
+  },
+  "alquiler": "650498c4aea3e65e8621fa19",
+  "empleado": "6504940daea3e65e8621f9dc",
+  "fecha_devolucion": "2023-10-06T13:00:00Z",
+  "combustible_devuelto": 44,
+  "kilometraje_devuelto": 1280,
+  "monto_adicional": 52
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa2e"
+  },
+  "alquiler": "650498c4aea3e65e8621fa1a",
+  "empleado": "6504940daea3e65e8621f9dd",
+  "fecha_devolucion": "2023-10-07T14:00:00Z",
+  "combustible_devuelto": 41,
+  "kilometraje_devuelto": 1230,
+  "monto_adicional": 58
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa2f"
+  },
+  "alquiler": "650498c4aea3e65e8621fa1b",
+  "empleado": "6504940daea3e65e8621f9de",
+  "fecha_devolucion": "2023-10-08T15:00:00Z",
+  "combustible_devuelto": 46,
+  "kilometraje_devuelto": 1310,
+  "monto_adicional": 63
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa30"
+  },
+  "alquiler": "650498c4aea3e65e8621fa1c",
+  "empleado": "6504940daea3e65e8621f9df",
+  "fecha_devolucion": "2023-10-09T16:00:00Z",
+  "combustible_devuelto": 37,
+  "kilometraje_devuelto": 1080,
+  "monto_adicional": 42
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa31"
+  },
+  "alquiler": "650498c4aea3e65e8621fa1d",
+  "empleado": "6504940daea3e65e8621f9e0",
+  "fecha_devolucion": "2023-10-10T17:00:00Z",
+  "combustible_devuelto": 43,
+  "kilometraje_devuelto": 1260,
+  "monto_adicional": 47
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa32"
+  },
+  "alquiler": "650498c4aea3e65e8621fa1e",
+  "empleado": "6504940daea3e65e8621f9e1",
+  "fecha_devolucion": "2023-10-11T18:00:00Z",
+  "combustible_devuelto": 40,
+  "kilometraje_devuelto": 1200,
+  "monto_adicional": 55
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa33"
+  },
+  "alquiler": "650498c4aea3e65e8621fa1f",
+  "empleado": "6504940daea3e65e8621f9e2",
+  "fecha_devolucion": "2023-10-12T19:00:00Z",
+  "combustible_devuelto": 48,
+  "kilometraje_devuelto": 1370,
+  "monto_adicional": 60
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa34"
+  },
+  "alquiler": "650498c4aea3e65e8621fa20",
+  "empleado": "6504940daea3e65e8621f9e3",
+  "fecha_devolucion": "2023-10-13T20:00:00Z",
+  "combustible_devuelto": 38,
+  "kilometraje_devuelto": 1100,
+  "monto_adicional": 50
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa35"
+  },
+  "alquiler": "650498c4aea3e65e8621fa21",
+  "empleado": "6504940daea3e65e8621f9e4",
+  "fecha_devolucion": "2023-10-14T21:00:00Z",
+  "combustible_devuelto": 42,
+  "kilometraje_devuelto": 1300,
+  "monto_adicional": 65
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa36"
+  },
+  "alquiler": "650498c4aea3e65e8621fa22",
+  "empleado": "6504940daea3e65e8621fa1b",
+  "fecha_devolucion": "2023-10-15T22:00:00Z",
+  "combustible_devuelto": 47,
+  "kilometraje_devuelto": 1350,
+  "monto_adicional": 70
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa37"
+  },
+  "alquiler": "650498c4aea3e65e8621fa23",
+  "empleado": "6504940daea3e65e8621fa1c",
+  "fecha_devolucion": "2023-10-16T23:00:00Z",
+  "combustible_devuelto": 39,
+  "kilometraje_devuelto": 1120,
+  "monto_adicional": 48
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa38"
+  },
+  "alquiler": "650498c4aea3e65e8621fa24",
+  "empleado": "6504940daea3e65e8621fa1d",
+  "fecha_devolucion": "2023-10-17T09:00:00Z",
+  "combustible_devuelto": 44,
+  "kilometraje_devuelto": 1280,
+  "monto_adicional": 52
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa39"
+  },
+  "alquiler": "650498c4aea3e65e8621fa25",
+  "empleado": "6504940daea3e65e8621fa1e",
+  "fecha_devolucion": "2023-10-18T10:00:00Z",
+  "combustible_devuelto": 41,
+  "kilometraje_devuelto": 1230,
+  "monto_adicional": 58
+},
+{
+  "_id": {
+    "$oid": "65049eafaea3e65e8621fa3a"
+  },
+  "alquiler": "650498c4aea3e65e8621fa26",
+  "empleado": "6504940daea3e65e8621fa1f",
+  "fecha_devolucion": "2023-10-19T11:00:00Z",
+  "combustible_devuelto": 46,
+  "kilometraje_devuelto": 1310,
+  "monto_adicional": 63
+},
+
+
+
+
+{"$oid": "65049eafaea3e65e8621fa27"},
+{"$oid": "65049eafaea3e65e8621fa28"},
+{"$oid": "65049eafaea3e65e8621fa29"},
+{"$oid": "65049eafaea3e65e8621fa2a"},
+{"$oid": "65049eafaea3e65e8621fa2b"},
+{"$oid": "65049eafaea3e65e8621fa2c"},
+{"$oid": "65049eafaea3e65e8621fa2d"},
+{"$oid": "65049eafaea3e65e8621fa2e"},
+{"$oid": "65049eafaea3e65e8621fa2f"},
+{"$oid": "65049eafaea3e65e8621fa30"},
+{"$oid": "65049eafaea3e65e8621fa31"},
+{"$oid": "65049eafaea3e65e8621fa32"},
+{"$oid": "65049eafaea3e65e8621fa33"},
+{"$oid": "65049eafaea3e65e8621fa34"},
+{"$oid": "65049eafaea3e65e8621fa35"},
+{"$oid": "65049eafaea3e65e8621fa36"},
+{"$oid": "65049eafaea3e65e8621fa37"},
+{"$oid": "65049eafaea3e65e8621fa38"},
+{"$oid": "65049eafaea3e65e8621fa39"},
+{"$oid": "65049eafaea3e65e8621fa3a"}
+
+
+
+]

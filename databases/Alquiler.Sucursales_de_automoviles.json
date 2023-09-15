@@ -1,0 +1,186 @@
+[{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa4f"
+  },
+  "sucursal": "65048fcaa086374eed71113d",
+  "automovil": "65049218aea3e65e8621f99b",
+  "cantidad_disponible": 5
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa50"
+  },
+  "sucursal": "650494a5aea3e65e8621f9eb",
+  "automovil": "65049218aea3e65e8621f99c",
+  "cantidad_disponible": 7
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa51"
+  },
+  "sucursal": "650494a5aea3e65e8621f9ec",
+  "automovil": "65049218aea3e65e8621f99d",
+  "cantidad_disponible": 10
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa52"
+  },
+  "sucursal": "650494a5aea3e65e8621f9ed",
+  "automovil": "65049218aea3e65e8621f99e",
+  "cantidad_disponible": 3
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa53"
+  },
+  "sucursal": "650494a5aea3e65e8621f9ee",
+  "automovil": "65049218aea3e65e8621f99f",
+  "cantidad_disponible": 8
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa54"
+  },
+  "sucursal": "650494a5aea3e65e8621f9ef",
+  "automovil": "65049218aea3e65e8621f9a0",
+  "cantidad_disponible": 6
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa55"
+  },
+  "sucursal": "650494a5aea3e65e8621f9f0",
+  "automovil": "65049218aea3e65e8621f9a1",
+  "cantidad_disponible": 4
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa56"
+  },
+  "sucursal": "650494a5aea3e65e8621f9f1",
+  "automovil": "65049218aea3e65e8621f9a2",
+  "cantidad_disponible": 9
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa57"
+  },
+  "sucursal": "650494a5aea3e65e8621f9f2",
+  "automovil": "65049218aea3e65e8621f9a3",
+  "cantidad_disponible": 2
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa58"
+  },
+  "sucursal": "650494a5aea3e65e8621f9f3",
+  "automovil": "65049218aea3e65e8621f9a4",
+  "cantidad_disponible": 5
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa59"
+  },
+  "sucursal": "650494a5aea3e65e8621f9f4",
+  "automovil": "65049218aea3e65e8621f9a5",
+  "cantidad_disponible": 7
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa5a"
+  },
+  "sucursal": "650494a5aea3e65e8621f9f5",
+  "automovil": "65049218aea3e65e8621f9a6",
+  "cantidad_disponible": 10
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa5b"
+  },
+  "sucursal": "650494a5aea3e65e8621f9f6",
+  "automovil": "65049218aea3e65e8621f9a7",
+  "cantidad_disponible": 3
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa5c"
+  },
+  "sucursal": "650494a5aea3e65e8621f9f7",
+  "automovil": "65049218aea3e65e8621f9a8",
+  "cantidad_disponible": 8
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa5d"
+  },
+  "sucursal": "650494a5aea3e65e8621f9f8",
+  "automovil": "65049218aea3e65e8621f9a9",
+  "cantidad_disponible": 6
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa5e"
+  },
+  "sucursal": "650494a5aea3e65e8621f9f9",
+  "automovil": "65049218aea3e65e8621f9aa",
+  "cantidad_disponible": 4
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa5f"
+  },
+  "sucursal": "650494a5aea3e65e8621f9fa",
+  "automovil": "65049218aea3e65e8621f9ab",
+  "cantidad_disponible": 9
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa60"
+  },
+  "sucursal": "650494a5aea3e65e8621f9fb",
+  "automovil": "65049218aea3e65e8621f9ac",
+  "cantidad_disponible": 2
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa61"
+  },
+  "sucursal": "650494a5aea3e65e8621f9fc",
+  "automovil": "65049218aea3e65e8621f9ad",
+  "cantidad_disponible": 5
+},
+{
+  "_id": {
+    "$oid": "6504a20caea3e65e8621fa62"
+  },
+  "sucursal": "650494a5aea3e65e8621f9fd",
+  "automovil": "65049218aea3e65e8621f9ae",
+  "cantidad_disponible": 7
+},
+
+
+
+
+{"$oid": "6504a20caea3e65e8621fa4f"},
+{"$oid": "6504a20caea3e65e8621fa50"},
+{"$oid": "6504a20caea3e65e8621fa51"},
+{"$oid": "6504a20caea3e65e8621fa52"},
+{"$oid": "6504a20caea3e65e8621fa53"},
+{"$oid": "6504a20caea3e65e8621fa54"},
+{"$oid": "6504a20caea3e65e8621fa55"},
+{"$oid": "6504a20caea3e65e8621fa56"},
+{"$oid": "6504a20caea3e65e8621fa57"},
+{"$oid": "6504a20caea3e65e8621fa58"},
+{"$oid": "6504a20caea3e65e8621fa59"},
+{"$oid": "6504a20caea3e65e8621fa5a"},
+{"$oid": "6504a20caea3e65e8621fa5b"},
+{"$oid": "6504a20caea3e65e8621fa5c"},
+{"$oid": "6504a20caea3e65e8621fa5d"},
+{"$oid": "6504a20caea3e65e8621fa5e"},
+{"$oid": "6504a20caea3e65e8621fa5f"},
+{"$oid": "6504a20caea3e65e8621fa60"},
+{"$oid": "6504a20caea3e65e8621fa61"},
+{"$oid": "6504a20caea3e65e8621fa62"}
+
+]

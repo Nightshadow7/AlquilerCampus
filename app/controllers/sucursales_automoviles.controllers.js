@@ -88,26 +88,35 @@ export const updateSucursal_Automovil = async (req, res = response) => {
 };
 export const getDisponible = async ( req , res = response ) => {
 };
-
+//8. Mostrar la cantidad total de automóviles disponibles en cada sucursal.
 export const getAutos_Por_Sucursal = async (req, res = response) => {
   try {
-    const { hasta = 10, desde = 0} = req.query;
-    const query = { 
-      cantidad_disponible: {$gt : 0}
-    };
-    const [ total, sucursales_para_automoviles_disponibles ] = await Promise.all([
-      Sucursal_Automovil.countDocuments(query),
-      Sucursal_Automovil.find(query)
-        .populate('sucursal')
-        .populate('automovil')
-        .skip( Number( desde ) )
-        .limit( Number( hasta ) )
-    ]);
+    const sucursales = await Sucursal_Automovil.find().distinct("sucursal"); // Obtiene todas las IDs de sucursal únicas
+    const resultados = await Promise.all(sucursales.map(async (sucursalId) => {
+      const cantidadDisponible = await Sucursal_Automovil.aggregate([
+        {
+          $match: { sucursal: sucursalId },
+        },
+        {
+          $group: {
+            _id: null,
+            total: { $sum: "$cantidad_disponible" },
+          },
+        },
+      ]);
+
+      const sucursalInfo = await Sucursal.findById(sucursalId); // Reemplaza "Sucursal" con el nombre de tu modelo de sucursal
+
+      return {
+        sucursal: sucursalInfo,
+        totalAutomoviles: cantidadDisponible.length > 0 ? cantidadDisponible[0].total : 0,
+      };
+    }));
+
     res.json({
-      total,
-      sucursales_para_automoviles_disponibles,
+      resultado: resultados,
     });
   } catch (err) {
     httpError(res, err);
-  };
+  }
 };

@@ -1,0 +1,203 @@
+[{
+  "_id": {
+    "$oid": "65048fcaa086374eed71113d"
+  },
+  "nombre": "Kia-word",
+  "direccion": "calle 100 #50-45 Bucaramanga",
+  "telefono": {
+    "$numberLong": "263823782332"
+  },
+  "createdAt": {
+    "$date": "2023-09-15T17:09:30.710Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T17:09:30.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9eb"
+  },
+  "nombre": "Autos Plaza",
+  "direccion": "Calle 123, Ciudad A",
+  "telefono": 555111222
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9ec"
+  },
+  "nombre": "Carros Express",
+  "direccion": "Avenida 456, Ciudad B",
+  "telefono": 555222333
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9ed"
+  },
+  "nombre": "Vehículos Rápidos",
+  "direccion": "Calle 789, Ciudad C",
+  "telefono": 555333444
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9ee"
+  },
+  "nombre": "AutoMax",
+  "direccion": "Avenida 987, Ciudad D",
+  "telefono": 555444555
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9ef"
+  },
+  "nombre": "CarShop",
+  "direccion": "Calle 234, Ciudad E",
+  "telefono": 555555666
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9f0"
+  },
+  "nombre": "MotorCity",
+  "direccion": "Avenida 876, Ciudad F",
+  "telefono": 555666777
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9f1"
+  },
+  "nombre": "CarrosElegantes",
+  "direccion": "Calle 567, Ciudad G",
+  "telefono": 555777888
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9f2"
+  },
+  "nombre": "VehículosVIP",
+  "direccion": "Avenida 345, Ciudad H",
+  "telefono": 555888999
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9f3"
+  },
+  "nombre": "AutomóvilesEstrella",
+  "direccion": "Calle 678, Ciudad I",
+  "telefono": 555999000
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9f4"
+  },
+  "nombre": "AutoGlamour",
+  "direccion": "Avenida 234, Ciudad J",
+  "telefono": 555000111
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9f5"
+  },
+  "nombre": "CarrosLujo",
+  "direccion": "Calle 789, Ciudad K",
+  "telefono": 555111222
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9f6"
+  },
+  "nombre": "MotorStyle",
+  "direccion": "Avenida 345, Ciudad L",
+  "telefono": 555222333
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9f7"
+  },
+  "nombre": "AutoPlus",
+  "direccion": "Calle 901, Ciudad M",
+  "telefono": 555333444
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9f8"
+  },
+  "nombre": "CarShopPro",
+  "direccion": "Avenida 567, Ciudad N",
+  "telefono": 555444555
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9f9"
+  },
+  "nombre": "VehículosElegantes",
+  "direccion": "Calle 234, Ciudad O",
+  "telefono": 555555666
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9fa"
+  },
+  "nombre": "AutoMaster",
+  "direccion": "Avenida 789, Ciudad P",
+  "telefono": 555666777
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9fb"
+  },
+  "nombre": "CarrosPremium",
+  "direccion": "Calle 456, Ciudad Q",
+  "telefono": 555777888
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9fc"
+  },
+  "nombre": "MotorLuxury",
+  "direccion": "Avenida 901, Ciudad R",
+  "telefono": 555888999
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9fd"
+  },
+  "nombre": "AutoDreams",
+  "direccion": "Calle 567, Ciudad S",
+  "telefono": 555999000
+},
+{
+  "_id": {
+    "$oid": "650494a5aea3e65e8621f9fe"
+  },
+  "nombre": "CarrosSelectos",
+  "direccion": "Avenida 123, Ciudad T",
+  "telefono": 555000111
+},
+
+
+
+
+
+{"$oid": "65048fcaa086374eed71113d"},
+{"$oid": "650494a5aea3e65e8621f9eb"},
+{"$oid": "650494a5aea3e65e8621f9ec"},
+{"$oid": "650494a5aea3e65e8621f9ed"},
+{"$oid": "650494a5aea3e65e8621f9ee"},
+{"$oid": "650494a5aea3e65e8621f9ef"},
+{"$oid": "650494a5aea3e65e8621f9f0"},
+{"$oid": "650494a5aea3e65e8621f9f1"},
+{"$oid": "650494a5aea3e65e8621f9f2"},
+{"$oid": "650494a5aea3e65e8621f9f3"},
+{"$oid": "650494a5aea3e65e8621f9f4"},
+{"$oid": "650494a5aea3e65e8621f9f5"},
+{"$oid": "650494a5aea3e65e8621f9f6"},
+{"$oid": "650494a5aea3e65e8621f9f7"},
+{"$oid": "650494a5aea3e65e8621f9f8"},
+{"$oid": "650494a5aea3e65e8621f9f9"},
+{"$oid": "650494a5aea3e65e8621f9fa"},
+{"$oid": "650494a5aea3e65e8621f9fb"},
+{"$oid": "650494a5aea3e65e8621f9fc"},
+{"$oid": "650494a5aea3e65e8621f9fd"},
+{"$oid": "650494a5aea3e65e8621f9fe"}
+]

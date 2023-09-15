@@ -1,0 +1,245 @@
+[{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa63"
+  },
+  "cliente": "65048faea086374eed711130",
+  "automovil": "6504a20caea3e65e8621fa4f",
+  "fecha_reserva": "2023-09-13T08:00:00.000Z",
+  "fecha_inicio": "2023-09-20T08:00:00.000Z",
+  "fecha_fin": "2023-09-25T08:00:00.000Z",
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa64"
+  },
+  "cliente": "650492b4aea3e65e8621f9af",
+  "automovil": "6504a20caea3e65e8621fa50",
+  "fecha_reserva": "2023-09-14T08:00:00.000Z",
+  "fecha_inicio": "2023-09-21T08:00:00.000Z",
+  "fecha_fin": "2023-09-26T08:00:00.000Z",
+  "estado": false
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa65"
+  },
+  "cliente": "650492b4aea3e65e8621f9b0",
+  "automovil": "6504a20caea3e65e8621fa51",
+  "fecha_reserva": "2023-09-15T08:00:00.000Z",
+  "fecha_inicio": "2023-09-22T08:00:00.000Z",
+  "fecha_fin": "2023-09-27T08:00:00.000Z",
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa66"
+  },
+  "cliente": "650492b4aea3e65e8621f9b1",
+  "automovil": "6504a20caea3e65e8621fa52",
+  "fecha_reserva": "2023-09-16T08:00:00.000Z",
+  "fecha_inicio": "2023-09-23T08:00:00.000Z",
+  "fecha_fin": "2023-09-28T08:00:00.000Z",
+  "estado": false
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa67"
+  },
+  "cliente": "650492b4aea3e65e8621f9b2",
+  "automovil": "6504a20caea3e65e8621fa53",
+  "fecha_reserva": "2023-09-17T08:00:00.000Z",
+  "fecha_inicio": "2023-09-24T08:00:00.000Z",
+  "fecha_fin": "2023-09-29T08:00:00.000Z",
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa68"
+  },
+  "cliente": "650492b4aea3e65e8621f9b3",
+  "automovil": "6504a20caea3e65e8621fa54",
+  "fecha_reserva": "2023-09-18T08:00:00.000Z",
+  "fecha_inicio": "2023-09-25T08:00:00.000Z",
+  "fecha_fin": "2023-09-30T08:00:00.000Z",
+  "estado": false
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa69"
+  },
+  "cliente": "650492b4aea3e65e8621f9b4",
+  "automovil": "6504a20caea3e65e8621fa55",
+  "fecha_reserva": "2023-09-19T08:00:00.000Z",
+  "fecha_inicio": "2023-09-26T08:00:00.000Z",
+  "fecha_fin": "2023-10-01T08:00:00.000Z",
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa6a"
+  },
+  "cliente": "650492b4aea3e65e8621f9b5",
+  "automovil": "6504a20caea3e65e8621fa56",
+  "fecha_reserva": "2023-09-20T08:00:00.000Z",
+  "fecha_inicio": "2023-09-27T08:00:00.000Z",
+  "fecha_fin": "2023-10-02T08:00:00.000Z",
+  "estado": false
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa6b"
+  },
+  "cliente": "650492b4aea3e65e8621f9b6",
+  "automovil": "6504a20caea3e65e8621fa57",
+  "fecha_reserva": "2023-09-21T08:00:00.000Z",
+  "fecha_inicio": "2023-09-28T08:00:00.000Z",
+  "fecha_fin": "2023-10-03T08:00:00.000Z",
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa6c"
+  },
+  "cliente": "650492b4aea3e65e8621f9b7",
+  "automovil": "6504a20caea3e65e8621fa58",
+  "fecha_reserva": "2023-09-22T08:00:00.000Z",
+  "fecha_inicio": "2023-09-29T08:00:00.000Z",
+  "fecha_fin": "2023-10-04T08:00:00.000Z",
+  "estado": false
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa6d"
+  },
+  "cliente": "650492b4aea3e65e8621f9b8",
+  "automovil": "6504a20caea3e65e8621fa59",
+  "fecha_reserva": "2023-09-23T08:00:00.000Z",
+  "fecha_inicio": "2023-09-30T08:00:00.000Z",
+  "fecha_fin": "2023-10-05T08:00:00.000Z",
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa6e"
+  },
+  "cliente": "650492b4aea3e65e8621f9b9",
+  "automovil": "6504a20caea3e65e8621fa5a",
+  "fecha_reserva": "2023-09-24T08:00:00.000Z",
+  "fecha_inicio": "2023-10-01T08:00:00.000Z",
+  "fecha_fin": "2023-10-06T08:00:00.000Z",
+  "estado": false
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa6f"
+  },
+  "cliente": "6504939eaea3e65e8621f9c3",
+  "automovil": "6504a20caea3e65e8621fa5b",
+  "fecha_reserva": "2023-09-25T08:00:00.000Z",
+  "fecha_inicio": "2023-10-02T08:00:00.000Z",
+  "fecha_fin": "2023-10-07T08:00:00.000Z",
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa70"
+  },
+  "cliente": "6504939eaea3e65e8621f9c4",
+  "automovil": "6504a20caea3e65e8621fa5c",
+  "fecha_reserva": "2023-09-26T08:00:00.000Z",
+  "fecha_inicio": "2023-10-03T08:00:00.000Z",
+  "fecha_fin": "2023-10-08T08:00:00.000Z",
+  "estado": false
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa71"
+  },
+  "cliente": "6504939eaea3e65e8621f9c5",
+  "automovil": "6504a20caea3e65e8621fa5d",
+  "fecha_reserva": "2023-09-27T08:00:00.000Z",
+  "fecha_inicio": "2023-10-04T08:00:00.000Z",
+  "fecha_fin": "2023-10-09T08:00:00.000Z",
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa72"
+  },
+  "cliente": "6504939eaea3e65e8621f9c6",
+  "automovil": "6504a20caea3e65e8621fa5e",
+  "fecha_reserva": "2023-09-28T08:00:00.000Z",
+  "fecha_inicio": "2023-10-05T08:00:00.000Z",
+  "fecha_fin": "2023-10-10T08:00:00.000Z",
+  "estado": false
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa73"
+  },
+  "cliente": "6504939eaea3e65e8621f9c7",
+  "automovil": "6504a20caea3e65e8621fa5f",
+  "fecha_reserva": "2023-09-29T08:00:00.000Z",
+  "fecha_inicio": "2023-10-06T08:00:00.000Z",
+  "fecha_fin": "2023-10-11T08:00:00.000Z",
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa74"
+  },
+  "cliente": "6504939eaea3e65e8621f9c8",
+  "automovil": "6504a20caea3e65e8621fa60",
+  "fecha_reserva": "2023-09-30T08:00:00.000Z",
+  "fecha_inicio": "2023-10-07T08:00:00.000Z",
+  "fecha_fin": "2023-10-12T08:00:00.000Z",
+  "estado": false
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa75"
+  },
+  "cliente": "6504939eaea3e65e8621f9c9",
+  "automovil": "6504a20caea3e65e8621fa61",
+  "fecha_reserva": "2023-10-01T08:00:00.000Z",
+  "fecha_inicio": "2023-10-08T08:00:00.000Z",
+  "fecha_fin": "2023-10-13T08:00:00.000Z",
+  "estado": true
+},
+{
+  "_id": {
+    "$oid": "6504a36baea3e65e8621fa76"
+  },
+  "cliente": "6504939eaea3e65e8621f9ca",
+  "automovil": "6504a20caea3e65e8621fa62",
+  "fecha_reserva": "2023-10-02T08:00:00.000Z",
+  "fecha_inicio": "2023-10-09T08:00:00.000Z",
+  "fecha_fin": "2023-10-14T08:00:00.000Z",
+  "estado": false
+},
+
+
+
+
+{"$oid": "6504a36baea3e65e8621fa63"},
+{"$oid": "6504a36baea3e65e8621fa64"},
+{"$oid": "6504a36baea3e65e8621fa65"},
+{"$oid": "6504a36baea3e65e8621fa66"},
+{"$oid": "6504a36baea3e65e8621fa67"},
+{"$oid": "6504a36baea3e65e8621fa68"},
+{"$oid": "6504a36baea3e65e8621fa69"},
+{"$oid": "6504a36baea3e65e8621fa6a"},
+{"$oid": "6504a36baea3e65e8621fa6b"},
+{"$oid": "6504a36baea3e65e8621fa6c"},
+{"$oid": "6504a36baea3e65e8621fa6d"},
+{"$oid": "6504a36baea3e65e8621fa6e"},
+{"$oid": "6504a36baea3e65e8621fa6f"},
+{"$oid": "6504a36baea3e65e8621fa70"},
+{"$oid": "6504a36baea3e65e8621fa71"},
+{"$oid": "6504a36baea3e65e8621fa72"},
+{"$oid": "6504a36baea3e65e8621fa73"},
+{"$oid": "6504a36baea3e65e8621fa74"},
+{"$oid": "6504a36baea3e65e8621fa75"},
+{"$oid": "6504a36baea3e65e8621fa76"}
+]

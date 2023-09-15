@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f99b"
+  },
+  "marca": "Toyota",
+  "modelo": "Corolla",
+  "año": 2022,
+  "tipo": "Sedán",
+  "capacidad": 5,
+  "precio_diario": 50
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f99c"
+  },
+  "marca": "Honda",
+  "modelo": "Civic",
+  "año": 2021,
+  "tipo": "Sedán",
+  "capacidad": 5,
+  "precio_diario": 45
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f99d"
+  },
+  "marca": "Ford",
+  "modelo": "Mustang",
+  "año": 2022,
+  "tipo": "Deportivo",
+  "capacidad": 2,
+  "precio_diario": 75
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f99e"
+  },
+  "marca": "Nissan",
+  "modelo": "Sentra",
+  "año": 2020,
+  "tipo": "Sedán",
+  "capacidad": 5,
+  "precio_diario": 40
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f99f"
+  },
+  "marca": "Chevrolet",
+  "modelo": "Cruze",
+  "año": 2021,
+  "tipo": "Sedán",
+  "capacidad": 5,
+  "precio_diario": 42
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f9a0"
+  },
+  "marca": "BMW",
+  "modelo": "X5",
+  "año": 2022,
+  "tipo": "SUV",
+  "capacidad": 5,
+  "precio_diario": 80
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f9a1"
+  },
+  "marca": "Mercedes-Benz",
+  "modelo": "C-Class",
+  "año": 2021,
+  "tipo": "Sedán",
+  "capacidad": 5,
+  "precio_diario": 70
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f9a2"
+  },
+  "marca": "Audi",
+  "modelo": "A4",
+  "año": 2020,
+  "tipo": "Sedán",
+  "capacidad": 5,
+  "precio_diario": 65
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f9a3"
+  },
+  "marca": "Volkswagen",
+  "modelo": "Golf",
+  "año": 2021,
+  "tipo": "Hatchback",
+  "capacidad": 5,
+  "precio_diario": 38
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f9a4"
+  },
+  "marca": "Hyundai",
+  "modelo": "Tucson",
+  "año": 2022,
+  "tipo": "SUV",
+  "capacidad": 5,
+  "precio_diario": 55
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f9a5"
+  },
+  "marca": "Kia",
+  "modelo": "Sportage",
+  "año": 2021,
+  "tipo": "SUV",
+  "capacidad": 5,
+  "precio_diario": 52
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f9a6"
+  },
+  "marca": "Mazda",
+  "modelo": "CX-5",
+  "año": 2020,
+  "tipo": "SUV",
+  "capacidad": 5,
+  "precio_diario": 48
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f9a7"
+  },
+  "marca": "Subaru",
+  "modelo": "Outback",
+  "año": 2021,
+  "tipo": "SUV",
+  "capacidad": 5,
+  "precio_diario": 53
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f9a8"
+  },
+  "marca": "Jeep",
+  "modelo": "Wrangler",
+  "año": 2022,
+  "tipo": "Todo terreno",
+  "capacidad": 4,
+  "precio_diario": 70
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f9a9"
+  },
+  "marca": "Lexus",
+  "modelo": "RX",
+  "año": 2021,
+  "tipo": "SUV",
+  "capacidad": 5,
+  "precio_diario": 75
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f9aa"
+  },
+  "marca": "Tesla",
+  "modelo": "Model 3",
+  "año": 2022,
+  "tipo": "Eléctrico",
+  "capacidad": 5,
+  "precio_diario": 90
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f9ab"
+  },
+  "marca": "Porsche",
+  "modelo": "911",
+  "año": 2021,
+  "tipo": "Deportivo",
+  "capacidad": 2,
+  "precio_diario": 100
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f9ac"
+  },
+  "marca": "Ferrari",
+  "modelo": "488",
+  "año": 2022,
+  "tipo": "Supercar",
+  "capacidad": 2,
+  "precio_diario": 150
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f9ad"
+  },
+  "marca": "Maserati",
+  "modelo": "GranTurismo",
+  "año": 2021,
+  "tipo": "Coupé",
+  "capacidad": 4,
+  "precio_diario": 120
+},
+{
+  "_id": {
+    "$oid": "65049218aea3e65e8621f9ae"
+  },
+  "marca": "Lamborghini",
+  "modelo": "Aventador",
+  "año": 2022,
+  "tipo": "Supercar",
+  "capacidad": 2,
+  "precio_diario": 200
+},
+
+
+
+
+
+
+{"$oid": "65049218aea3e65e8621f99b"},
+{"$oid": "65049218aea3e65e8621f99c"},
+{"$oid": "65049218aea3e65e8621f99d"},
+{"$oid": "65049218aea3e65e8621f99e"},
+{"$oid": "65049218aea3e65e8621f99f"},
+{"$oid": "65049218aea3e65e8621f9a0"},
+{"$oid": "65049218aea3e65e8621f9a1"},
+{"$oid": "65049218aea3e65e8621f9a2"},
+{"$oid": "65049218aea3e65e8621f9a3"},
+{"$oid": "65049218aea3e65e8621f9a4"},
+{"$oid": "65049218aea3e65e8621f9a5"},
+{"$oid": "65049218aea3e65e8621f9a6"},
+{"$oid": "65049218aea3e65e8621f9a7"},
+{"$oid": "65049218aea3e65e8621f9a8"},
+{"$oid": "65049218aea3e65e8621f9a9"},
+{"$oid": "65049218aea3e65e8621f9aa"},
+{"$oid": "65049218aea3e65e8621f9ab"},
+{"$oid": "65049218aea3e65e8621f9ac"},
+{"$oid": "65049218aea3e65e8621f9ad"},
+{"$oid": "65049218aea3e65e8621f9ae"}
+
+]
+
+
+
+

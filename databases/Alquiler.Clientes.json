@@ -1,0 +1,409 @@
+[{
+  "_id": {
+    "$oid": "65048faea086374eed711130"
+  },
+  "nombre": "Camila",
+  "apellido": "Amaya",
+  "DNI": 1005106139,
+  "direccion": "calle 100 # 49-67 robira",
+  "telefono": {
+    "$numberLong": "3153945678"
+  },
+  "email": "camilarubio@example.com",
+  "createdAt": {
+    "$date": "2023-09-15T17:09:02.496Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T17:09:02.496Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "650492b4aea3e65e8621f9af"
+  },
+  "nombre": "Juan",
+  "apellido": "Pérez",
+  "DNI": 12345678,
+  "direccion": "Calle 123, Ciudad",
+  "telefono": 555123456,
+  "email": "juan@example.com"
+},
+{
+  "_id": {
+    "$oid": "650492b4aea3e65e8621f9b0"
+  },
+  "nombre": "María",
+  "apellido": "Gómez",
+  "DNI": 87654321,
+  "direccion": "Avenida 456, Ciudad",
+  "telefono": 555987654,
+  "email": "maria@example.com"
+},
+{
+  "_id": {
+    "$oid": "650492b4aea3e65e8621f9b1"
+  },
+  "nombre": "Carlos",
+  "apellido": "Rodríguez",
+  "DNI": 98765432,
+  "direccion": "Calle 789, Ciudad",
+  "telefono": 555876543,
+  "email": "carlos@example.com"
+},
+{
+  "_id": {
+    "$oid": "650492b4aea3e65e8621f9b2"
+  },
+  "nombre": "Laura",
+  "apellido": "López",
+  "DNI": 54321678,
+  "direccion": "Avenida 987, Ciudad",
+  "telefono": 555654321,
+  "email": "laura@example.com"
+},
+{
+  "_id": {
+    "$oid": "650492b4aea3e65e8621f9b3"
+  },
+  "nombre": "Pedro",
+  "apellido": "Martínez",
+  "DNI": 34567890,
+  "direccion": "Calle 234, Ciudad",
+  "telefono": 555234567,
+  "email": "pedro@example.com"
+},
+{
+  "_id": {
+    "$oid": "650492b4aea3e65e8621f9b4"
+  },
+  "nombre": "Ana",
+  "apellido": "Fernández",
+  "DNI": 23456789,
+  "direccion": "Avenida 876, Ciudad",
+  "telefono": 555345678,
+  "email": "ana@example.com"
+},
+{
+  "_id": {
+    "$oid": "650492b4aea3e65e8621f9b5"
+  },
+  "nombre": "Luis",
+  "apellido": "Díaz",
+  "DNI": 45678901,
+  "direccion": "Calle 567, Ciudad",
+  "telefono": 555456789,
+  "email": "luis@example.com"
+},
+{
+  "_id": {
+    "$oid": "650492b4aea3e65e8621f9b6"
+  },
+  "nombre": "Elena",
+  "apellido": "García",
+  "DNI": 67890123,
+  "direccion": "Avenida 345, Ciudad",
+  "telefono": 555567890,
+  "email": "elena@example.com"
+},
+{
+  "_id": {
+    "$oid": "650492b4aea3e65e8621f9b7"
+  },
+  "nombre": "David",
+  "apellido": "Hernández",
+  "DNI": 78901234,
+  "direccion": "Calle 678, Ciudad",
+  "telefono": 555678901,
+  "email": "david@example.com"
+},
+{
+  "_id": {
+    "$oid": "650492b4aea3e65e8621f9b8"
+  },
+  "nombre": "Carmen",
+  "apellido": "Ramírez",
+  "DNI": 89012345,
+  "direccion": "Avenida 234, Ciudad",
+  "telefono": 555789012,
+  "email": "carmen@example.com"
+},
+{
+  "_id": {
+    "$oid": "650492b4aea3e65e8621f9b9"
+  },
+  "nombre": "Miguel",
+  "apellido": "Torres",
+  "DNI": 90123456,
+  "direccion": "Calle 789, Ciudad",
+  "telefono": 555890123,
+  "email": "miguel@example.com"
+},
+{
+  "_id": {
+    "$oid": "650492b4aea3e65e8621f9ba"
+  },
+  "nombre": "Isabel",
+  "apellido": "Navarro",
+  "DNI": 34561234,
+  "direccion": "Avenida 345, Ciudad",
+  "telefono": 555901234,
+  "email": "isabel@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9c3"
+  },
+  "nombre": "Juan",
+  "apellido": "Pérez",
+  "DNI": 11111111,
+  "direccion": "Calle 123, Ciudad",
+  "telefono": 555123456,
+  "email": "juan@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9c4"
+  },
+  "nombre": "María",
+  "apellido": "Gómez",
+  "DNI": 22222222,
+  "direccion": "Avenida 456, Ciudad",
+  "telefono": 555987654,
+  "email": "maria@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9c5"
+  },
+  "nombre": "Carlos",
+  "apellido": "Rodríguez",
+  "DNI": 33333333,
+  "direccion": "Calle 789, Ciudad",
+  "telefono": 555876543,
+  "email": "carlos@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9c6"
+  },
+  "nombre": "Laura",
+  "apellido": "López",
+  "DNI": 44444444,
+  "direccion": "Avenida 987, Ciudad",
+  "telefono": 555654321,
+  "email": "laura@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9c7"
+  },
+  "nombre": "Pedro",
+  "apellido": "Martínez",
+  "DNI": 55555555,
+  "direccion": "Calle 234, Ciudad",
+  "telefono": 555234567,
+  "email": "pedro@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9c8"
+  },
+  "nombre": "Ana",
+  "apellido": "Fernández",
+  "DNI": 66666666,
+  "direccion": "Avenida 876, Ciudad",
+  "telefono": 555345678,
+  "email": "ana@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9c9"
+  },
+  "nombre": "Luis",
+  "apellido": "Díaz",
+  "DNI": 77777777,
+  "direccion": "Calle 567, Ciudad",
+  "telefono": 555456789,
+  "email": "luis@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9ca"
+  },
+  "nombre": "Elena",
+  "apellido": "García",
+  "DNI": 88888888,
+  "direccion": "Avenida 345, Ciudad",
+  "telefono": 555567890,
+  "email": "elena@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9cb"
+  },
+  "nombre": "David",
+  "apellido": "Hernández",
+  "DNI": 99999999,
+  "direccion": "Calle 678, Ciudad",
+  "telefono": 555678901,
+  "email": "david@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9cc"
+  },
+  "nombre": "Carmen",
+  "apellido": "Ramírez",
+  "DNI": 10101010,
+  "direccion": "Avenida 234, Ciudad",
+  "telefono": 555789012,
+  "email": "carmen@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9cd"
+  },
+  "nombre": "Miguel",
+  "apellido": "Torres",
+  "DNI": 11112222,
+  "direccion": "Calle 789, Ciudad",
+  "telefono": 555890123,
+  "email": "miguel@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9ce"
+  },
+  "nombre": "Isabel",
+  "apellido": "Navarro",
+  "DNI": 22223333,
+  "direccion": "Avenida 345, Ciudad",
+  "telefono": 555901234,
+  "email": "isabel@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9cf"
+  },
+  "nombre": "Pablo",
+  "apellido": "Sánchez",
+  "DNI": 33334444,
+  "direccion": "Calle 901, Ciudad",
+  "telefono": 555123789,
+  "email": "pablo@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9d0"
+  },
+  "nombre": "Sofía",
+  "apellido": "Pérez",
+  "DNI": 44445555,
+  "direccion": "Avenida 567, Ciudad",
+  "telefono": 555456890,
+  "email": "sofia@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9d1"
+  },
+  "nombre": "Andrés",
+  "apellido": "Gómez",
+  "DNI": 55556666,
+  "direccion": "Calle 234, Ciudad",
+  "telefono": 555678901,
+  "email": "andres@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9d2"
+  },
+  "nombre": "Eva",
+  "apellido": "Martínez",
+  "DNI": 66667777,
+  "direccion": "Avenida 789, Ciudad",
+  "telefono": 555890123,
+  "email": "eva@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9d3"
+  },
+  "nombre": "Hugo",
+  "apellido": "Fernández",
+  "DNI": 77778888,
+  "direccion": "Calle 456, Ciudad",
+  "telefono": 555123456,
+  "email": "hugo@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9d4"
+  },
+  "nombre": "Lucía",
+  "apellido": "Díaz",
+  "DNI": 88889999,
+  "direccion": "Avenida 901, Ciudad",
+  "telefono": 555234567,
+  "email": "lucia@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9d5"
+  },
+  "nombre": "Diego",
+  "apellido": "García",
+  "DNI": 99990000,
+  "direccion": "Calle 567, Ciudad",
+  "telefono": 555345678,
+  "email": "diego@example.com"
+},
+{
+  "_id": {
+    "$oid": "6504939eaea3e65e8621f9d6"
+  },
+  "nombre": "Clara",
+  "apellido": "Hernández",
+  "DNI": 10000001,
+  "direccion": "Avenida 123, Ciudad",
+  "telefono": 555456789,
+  "email": "clara@example.com"
+},
+
+
+
+
+{"$oid": "65048faea086374eed711130"},
+{"$oid": "650492b4aea3e65e8621f9af"},
+{"$oid": "650492b4aea3e65e8621f9b0"},
+{"$oid": "650492b4aea3e65e8621f9b1"},
+{"$oid": "650492b4aea3e65e8621f9b2"},
+{"$oid": "650492b4aea3e65e8621f9b3"},
+{"$oid": "650492b4aea3e65e8621f9b4"},
+{"$oid": "650492b4aea3e65e8621f9b5"},
+{"$oid": "650492b4aea3e65e8621f9b6"},
+{"$oid": "650492b4aea3e65e8621f9b7"},
+{"$oid": "650492b4aea3e65e8621f9b8"},
+{"$oid": "650492b4aea3e65e8621f9b9"},
+{"$oid": "650492b4aea3e65e8621f9ba"},
+{"$oid": "6504939eaea3e65e8621f9c3"},
+{"$oid": "6504939eaea3e65e8621f9c4"},
+{"$oid": "6504939eaea3e65e8621f9c5"},
+{"$oid": "6504939eaea3e65e8621f9c6"},
+{"$oid": "6504939eaea3e65e8621f9c7"},
+{"$oid": "6504939eaea3e65e8621f9c8"},
+{"$oid": "6504939eaea3e65e8621f9c9"},
+{"$oid": "6504939eaea3e65e8621f9ca"},
+{"$oid": "6504939eaea3e65e8621f9cb"},
+{"$oid": "6504939eaea3e65e8621f9cc"},
+{"$oid": "6504939eaea3e65e8621f9cd"},
+{"$oid": "6504939eaea3e65e8621f9ce"},
+{"$oid": "6504939eaea3e65e8621f9cf"},
+{"$oid": "6504939eaea3e65e8621f9d0"},
+{"$oid": "6504939eaea3e65e8621f9d1"},
+{"$oid": "6504939eaea3e65e8621f9d2"},
+{"$oid": "6504939eaea3e65e8621f9d3"},
+{"$oid": "6504939eaea3e65e8621f9d4"},
+{"$oid": "6504939eaea3e65e8621f9d5"},
+{"$oid": "6504939eaea3e65e8621f9d6"}
+]

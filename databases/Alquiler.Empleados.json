@@ -1,0 +1,264 @@
+[{
+  "_id": {
+    "$oid": "65048fb4a086374eed711134"
+  },
+  "nombre": "joel",
+  "apellido": "santos",
+  "DNI": 123455455,
+  "direccion": "carrera 50 #56-78 chuza",
+  "telefono": {
+    "$numberLong": "3123654789"
+  },
+  "cargo": "mariano",
+  "createdAt": {
+    "$date": "2023-09-15T17:09:08.008Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T17:09:08.008Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9d7"
+  },
+  "nombre": "Juan",
+  "apellido": "López",
+  "DNI": 11111111,
+  "direccion": "Calle 123, Ciudad",
+  "telefono": 555123456,
+  "cargo": "Gerente"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9d8"
+  },
+  "nombre": "María",
+  "apellido": "García",
+  "DNI": 22222222,
+  "direccion": "Avenida 456, Ciudad",
+  "telefono": 555987654,
+  "cargo": "Supervisor"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9d9"
+  },
+  "nombre": "Carlos",
+  "apellido": "Martínez",
+  "DNI": 33333333,
+  "direccion": "Calle 789, Ciudad",
+  "telefono": 555876543,
+  "cargo": "Asistente"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9da"
+  },
+  "nombre": "Laura",
+  "apellido": "Fernández",
+  "DNI": 44444444,
+  "direccion": "Avenida 987, Ciudad",
+  "telefono": 555654321,
+  "cargo": "Gerente"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9db"
+  },
+  "nombre": "Pedro",
+  "apellido": "Rodríguez",
+  "DNI": 55555555,
+  "direccion": "Calle 234, Ciudad",
+  "telefono": 555234567,
+  "cargo": "Supervisor"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9dc"
+  },
+  "nombre": "Ana",
+  "apellido": "Díaz",
+  "DNI": 66666666,
+  "direccion": "Avenida 876, Ciudad",
+  "telefono": 555345678,
+  "cargo": "Asistente"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9dd"
+  },
+  "nombre": "Luis",
+  "apellido": "Sánchez",
+  "DNI": 77777777,
+  "direccion": "Calle 567, Ciudad",
+  "telefono": 555456789,
+  "cargo": "Gerente"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9de"
+  },
+  "nombre": "Elena",
+  "apellido": "Pérez",
+  "DNI": 88888888,
+  "direccion": "Avenida 345, Ciudad",
+  "telefono": 555567890,
+  "cargo": "Supervisor"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9df"
+  },
+  "nombre": "David",
+  "apellido": "Gómez",
+  "DNI": 99999999,
+  "direccion": "Calle 678, Ciudad",
+  "telefono": 555678901,
+  "cargo": "Asistente"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9e0"
+  },
+  "nombre": "Carmen",
+  "apellido": "Navarro",
+  "DNI": 10101010,
+  "direccion": "Avenida 234, Ciudad",
+  "telefono": 555789012,
+  "cargo": "Gerente"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9e1"
+  },
+  "nombre": "Miguel",
+  "apellido": "Torres",
+  "DNI": 11112222,
+  "direccion": "Calle 789, Ciudad",
+  "telefono": 555890123,
+  "cargo": "Supervisor"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9e2"
+  },
+  "nombre": "Isabel",
+  "apellido": "Hernández",
+  "DNI": 22223333,
+  "direccion": "Avenida 345, Ciudad",
+  "telefono": 555901234,
+  "cargo": "Asistente"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9e3"
+  },
+  "nombre": "Pablo",
+  "apellido": "Gómez",
+  "DNI": 33334444,
+  "direccion": "Calle 901, Ciudad",
+  "telefono": 555123789,
+  "cargo": "Gerente"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9e4"
+  },
+  "nombre": "Sofía",
+  "apellido": "Martínez",
+  "DNI": 44445555,
+  "direccion": "Avenida 567, Ciudad",
+  "telefono": 555456890,
+  "cargo": "Supervisor"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9e5"
+  },
+  "nombre": "Andrés",
+  "apellido": "López",
+  "DNI": 55556666,
+  "direccion": "Calle 234, Ciudad",
+  "telefono": 555678901,
+  "cargo": "Asistente"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9e6"
+  },
+  "nombre": "Eva",
+  "apellido": "García",
+  "DNI": 66667777,
+  "direccion": "Avenida 789, Ciudad",
+  "telefono": 555890123,
+  "cargo": "Gerente"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9e7"
+  },
+  "nombre": "Hugo",
+  "apellido": "Fernández",
+  "DNI": 77778888,
+  "direccion": "Calle 456, Ciudad",
+  "telefono": 555123456,
+  "cargo": "Supervisor"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9e8"
+  },
+  "nombre": "Lucía",
+  "apellido": "Sánchez",
+  "DNI": 88889999,
+  "direccion": "Avenida 901, Ciudad",
+  "telefono": 555234567,
+  "cargo": "Asistente"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9e9"
+  },
+  "nombre": "Diego",
+  "apellido": "Rodríguez",
+  "DNI": 99990000,
+  "direccion": "Calle 567, Ciudad",
+  "telefono": 555345678,
+  "cargo": "Gerente"
+},
+{
+  "_id": {
+    "$oid": "6504940daea3e65e8621f9ea"
+  },
+  "nombre": "Clara",
+  "apellido": "Pérez",
+  "DNI": 10000001,
+  "direccion": "Avenida 123, Ciudad",
+  "telefono": 555456789,
+  "cargo": "Supervisor"
+},
+
+
+
+{"$oid": "65048fb4a086374eed711134"},
+{"$oid": "6504940daea3e65e8621f9d7"},
+{"$oid": "6504940daea3e65e8621f9d8"},
+{"$oid": "6504940daea3e65e8621f9d9"},
+{"$oid": "6504940daea3e65e8621f9da"},
+{"$oid": "6504940daea3e65e8621f9db"},
+{"$oid": "6504940daea3e65e8621f9dc"},
+{"$oid": "6504940daea3e65e8621f9dd"},
+{"$oid": "6504940daea3e65e8621f9de"},
+{"$oid": "6504940daea3e65e8621f9df"},
+{"$oid": "6504940daea3e65e8621f9e0"},
+{"$oid": "6504940daea3e65e8621f9e1"},
+{"$oid": "6504940daea3e65e8621f9e2"},
+{"$oid": "6504940daea3e65e8621f9e3"},
+{"$oid": "6504940daea3e65e8621f9e4"},
+{"$oid": "6504940daea3e65e8621f9e5"},
+{"$oid": "6504940daea3e65e8621f9e6"},
+{"$oid": "6504940daea3e65e8621f9e7"},
+{"$oid": "6504940daea3e65e8621f9e8"},
+{"$oid": "6504940daea3e65e8621f9e9"},
+{"$oid": "6504940daea3e65e8621f9ea"}
+]
